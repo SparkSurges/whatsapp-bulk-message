@@ -1,0 +1,5 @@
+{
+    "DB": {
+        "DB_NAME": "./database.sqlite"
+    }
+}
